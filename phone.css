@@ -211,9 +211,10 @@
 	small{
 		font-size: 12px;
 		font-family: cursive;
-		color: white;
+		color: rgb(255, 255, 255);
 		animation: blink 1s linear infinite;
         margin-top: 64px;
+        text-shadow: 0px 0px 3px black;
 	}
 @keyframes blink{
 0%{opacity: 0;}
